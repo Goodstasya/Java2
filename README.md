@@ -12,7 +12,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/Goodstasya/Java2/issues/2#issue-644857248
+https://github.com/Goodstasya/Java2/issues/3#issue-648834685
 
 Description
 
